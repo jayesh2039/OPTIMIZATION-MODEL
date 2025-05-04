@@ -44,3 +44,9 @@ To run the optimization notebook, you will need the following libraries:
   - Sensitivity Analysis: The effect of varying labor and machine hours on profit.
   - Multiple Objectives: Profit vs cost analysis.
   - Integer Programming: Solution when product quantities are required to be integers.
+
+# Output:
+![Image](https://github.com/user-attachments/assets/aa2cf5b2-9567-4302-a17f-289609d1b45a)
+![Image](https://github.com/user-attachments/assets/37bf33e6-5330-478e-855b-367441090f1e)
+![Image](https://github.com/user-attachments/assets/e62bdf6c-0936-47ad-9f68-279942f27d5d)
+
