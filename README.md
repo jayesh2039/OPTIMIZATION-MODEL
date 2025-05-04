@@ -1,4 +1,16 @@
-# Optimization Task
+# OPTIMIZATION-MODEL
+
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: JAYESH MODHVADIYA
+
+*INTERN ID*: CT4MDA791
+
+*DOMAIN*: DATA SCIENCE
+
+*DURATION*: 4 MONTHS
+
+*MENTOR*: NEELA SANTOSH
 
 This repository contains a Jupyter Notebook demonstrating an optimization problem using **linear programming** with **Python** libraries like **PuLP**.
 
